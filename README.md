@@ -1,4 +1,4 @@
-# ReActAgente-FastCamp 🚀
+# ReActAgente-FastCamp
 
 Este repositório contém o desenvolvimento de agentes inteligentes utilizando a arquitetura **ReAct** (Reasoning + Acting).
 
